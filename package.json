@@ -1,0 +1,19 @@
+{
+  "name": "monitor-cpu",
+  "version": "0.1.0",
+  "description": "Monitor CPU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://aanzee.git.beanstalkapp.com/monitor-cpu.git"
+  },
+  "keywords": [],
+  "author": "Roy Peters",
+  "license": "ISC",
+  "dependencies": {
+    "os-utils": "0.0.14"
+  }
+}
